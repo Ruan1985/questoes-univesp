@@ -1,5 +1,5 @@
-const CACHE = "questoes-univesp-v10";
-const ARQUIVOS = ["./", "index.html", "style.css", "app.js", "questions.js", "manifest.webmanifest", "icon-v2-192.png", "icon-v2-512.png"];
+const CACHE = "questoes-univesp-v11";
+const ARQUIVOS = ["./", "index.html", "style.css", "app.js", "questions.js", "manifest-v2.webmanifest", "icon-v2-192.png", "icon-v2-512.png"];
 
 self.addEventListener("install", (e) => {
   e.waitUntil(

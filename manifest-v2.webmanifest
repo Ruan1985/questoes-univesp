@@ -1,6 +1,7 @@
 {
   "name": "Questões Univesp",
   "short_name": "Univesp",
+  "id": "questoes-univesp-u",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
